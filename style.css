@@ -80,6 +80,31 @@ main section {
     box-shadow: 0 2px 8px rgba(0,0,0,0.05);
 }
 
+.status-figure {
+    margin: 20px 0 25px;
+}
+
+.status-image {
+    display: block;
+    width: 100%;
+    max-width: 760px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 8px;
+    border: 1px solid #e7ebf3;
+    box-shadow: 0 10px 26px rgba(25, 35, 62, 0.12);
+}
+
+.status-video {
+    display: block;
+    width: 100%;
+    max-width: 760px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 8px;
+    background: #000;
+}
+
 h2 {
     color: #667eea;
     margin-bottom: 20px;
