@@ -364,6 +364,20 @@ footer p {
     font-size: 0.9em;
 }
 
+/* Placeholder Image */
+.status-image-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 260px;
+    background: linear-gradient(135deg, #eef2ff 0%, #e5e7eb 100%);
+    border: 1px solid #dfe6f1;
+    color: #667eea;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-transform: none;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     header h1 {
