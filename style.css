@@ -19,7 +19,7 @@ body {
 
 /* Header */
 header {
-    background: #667eea;
+    background: #6f2c3f;
     color: white;
     padding: 22px 0;
     text-align: center;
@@ -37,7 +37,7 @@ header .subtitle {
 
 /* Navigation */
 .navbar {
-    background-color: #333;
+    background-color: #757575 ;
     padding: 15px 0;
     position: sticky;
     top: 0;
@@ -63,7 +63,7 @@ header .subtitle {
 }
 
 .nav-link.active {
-    background-color: #667eea;
+    background-color: #6f2c3f;
     font-weight: bold;
 }
 
@@ -106,13 +106,13 @@ main section {
 }
 
 h2 {
-    color: #667eea;
+    color: #6f2c3f;
     margin-bottom: 20px;
     font-size: 1.8em;
 }
 
 h3 {
-    color: #764ba2;
+    color: #6f2c3f;
     margin-bottom: 15px;
     font-size: 1.3em;
 }
@@ -156,7 +156,7 @@ p {
 /* Buttons */
 .btn {
     display: inline-block;
-    background-color: #667eea;
+    background-color: #6f2c3f;
     color: white;
     padding: 10px 20px;
     border-radius: 4px;
@@ -168,14 +168,14 @@ p {
 }
 
 .btn:hover {
-    background-color: #764ba2;
+    background-color: #6f2c3f;
 }
 
 /* Status Info */
 .status-info {
     background-color: #f0f4ff;
     padding: 20px;
-    border-left: 4px solid #667eea;
+    border-left: 4px solid #6f2c3f;
     border-radius: 4px;
 }
 
@@ -185,7 +185,7 @@ p {
 }
 
 .status-info strong {
-    color: #667eea;
+    color: #6f2c3f;
 }
 
 /* Task List */
@@ -282,7 +282,7 @@ p {
 }
 
 .social-icon-link:focus-visible {
-    outline: 2px solid #667eea;
+    outline: 2px solid #6f2c3f;
     outline-offset: 3px;
 }
 
@@ -306,7 +306,7 @@ p {
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 4px;
-    border-left: 4px solid #667eea;
+    border-left: 4px solid #6f2c3f;
     display: flex;
     align-items: center;
     gap: 15px;
@@ -327,7 +327,7 @@ p {
 }
 
 .status-badge {
-    background-color: #667eea;
+    background-color: #6f2c3f;
     color: white;
     padding: 3px 10px;
     border-radius: 12px;
@@ -372,7 +372,7 @@ footer p {
     min-height: 260px;
     background: linear-gradient(135deg, #eef2ff 0%, #e5e7eb 100%);
     border: 1px solid #dfe6f1;
-    color: #667eea;
+    color: #6f2c3f;
     font-weight: 600;
     letter-spacing: 0.02em;
     text-transform: none;
